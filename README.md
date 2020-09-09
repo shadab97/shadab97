@@ -1,3 +1,4 @@
+[![shadab's github stats](https://github-readme-stats.vercel.app/api?username=shadab97)]
 ## Welcome to Shadab Ali's github resume!
 
 ### Introduction :
