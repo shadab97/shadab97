@@ -44,13 +44,13 @@ Currently I am Pursuing MCA from Lovely professional University with current CGP
 
 ## Projects
 
-### [Personal Portfolio](https://shadablai.me/) | A website to showcase projects
+### [Personal Portfolio](http://shadab97.github.io/) | A website to showcase projects
 
 -   It is 100% PWA user can install it via chrome after installation work like native app
 -   it can work offline with the help of sercice worker
 -   Language used: HTML ,CSS ,Matrailize, JS
 
-### [Classic Memory Game](https://shadabali.me/fend-project-memory-game/) | A card matching Game
+### [Classic Memory Game](http://shadab97.github.io/fend-project-memory-game/) | A card matching Game
 
 -   A complete browser-based card matching game (also known as Concentration).
 -   The cards are arranged randomly on the grid with the symbol face down
@@ -83,7 +83,7 @@ LinkedIn - [Linkedin-https:/www.linkedin.com/in/shadab-ali/](https://www.linkedi
 
 Github - [Github  https://github.com/shadab97](https://github.com/shadab97)
 
-Portfolio - [Portfolio  https://shadabali.me/](https://shadabali.me/)
+Portfolio - [Portfolio  https://shadabali.me/](http://shadab97.github.io/)
 
 ## Area of interest and life Goals
 
