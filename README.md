@@ -1,7 +1,7 @@
 [![shadab's github stats](https://github-readme-stats.vercel.app/api?username=shadab97)]
 ## Welcome to Shadab Ali's github resume!
 
-### Introduction :
+### A small Introduction :
 Hi! I'm Shadab Ali fellow dev call me (Shacodes) . I live in New Delhi ,India .
 I did my 10<sup>th</sup> and 12<sup>th</sup> from govt school new delhi. and moved to jalandhar ,punjab for doing bachelor's of computer application at Lovely professional University.
 Currently I am Pursuing MCA from Lovely professional University with current CGPA of 7.52
