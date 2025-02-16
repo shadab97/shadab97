@@ -14,7 +14,7 @@ A passionate developer from India
 - Frontend System Design
 
 ## 💬 Ask me about
-- HTML,CSS,SCSS,TAILWIND,JS,TS,REACT,REDUX,NEXT,REACT-QUERY,GRAPHQL,MUI,ANTD
+- Web development
 - Programming best practices
 - Career advice
 
@@ -23,6 +23,6 @@ A passionate developer from India
 - LinkedIn: [Shadab Ali](https://linkedin.com/in/shadab-ali)
 - Frontendchef: [Frontendchef](https://frontendchef.com)
 - Interview Tips: [Interview Tips](https://interview.frontendchef.com);
-- Frontendseo: [Frontendchef](https://frontendseo.com)
+- Frontendseo: [Frontendseo](https://frontendseo.com)
 
 
