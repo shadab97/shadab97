@@ -1,4 +1,4 @@
-# 🇵🇸 ALL LIVE MATT🇵🇸R
+# 🌎 ALL LIVES MATTER 🌎
 ## ⚡ Fun fact 
 No matter how messed up things get, you can always figure out the best solution.
 
@@ -11,7 +11,7 @@ No matter how messed up things get, you can always figure out the best solution.
 A passionate developer from India
 
 ## 🌱 I'm currently learning
-- A11y,seo
+- A11y,testing
 - Frontend System Design
 
 ## 💬 Ask me about
